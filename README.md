@@ -233,8 +233,8 @@ This project is Open-Source and free for personal, academic, and commercial use.
 
 👨‍🎨 Author
 
-Your Name / Your Store
-📧 Email: yourmail@example.com
+Vijay Selvan / Online shopping
+📧 Email: vijayvs2341@gmail.com
 
 💼 Portfolio: your portfolio link
 🐙 GitHub: your github link
