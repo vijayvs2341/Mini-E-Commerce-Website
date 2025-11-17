@@ -4,7 +4,8 @@ Modern E-Commerce Frontend • Responsive UI • Smart Search Engine • AOS-Pow
 
 
 
-[Download MyProject.zip](../../releases/download/v1.0.1/portf.zip)
+[Download Online Shopping ZIP](https://github.com/vijayvs2341/Online-Shopping-Website/releases/download/v1.0.1/online.shooping.zip)
+
 
 
 
