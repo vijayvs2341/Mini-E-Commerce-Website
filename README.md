@@ -2,7 +2,7 @@
 
 
 
-[Download Online Shopping ZIP](https://github.com/vijayvs2341/Mini-E-Commerce-Website/releases/download/v1.0.1/mini.e-commerce.website.zip)
+[Download Online Shopping ZIP](https://github.com/vijayvs2341/Mini-E-Commerce-Website/releases/download/v1.0.1/shoping.zip)
 
 
 🛒 Shopping Hub – Django E-Commerce Website
